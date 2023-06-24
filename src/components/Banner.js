@@ -40,7 +40,7 @@ export const Banner = () => {
                                         technical expertise in a challenging
                                         role as a Full-stack Developer.
                                     </p>
-                                    <a className="resume-btn" href="Hari of BDO Office Quotation.pdf" download>
+                                    <a className="resume-btn" href="MERN Resume.pdf" download>
                                         My Resume
                                         <CloudArrowDownFill size={25} />
                                     </a>
